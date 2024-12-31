@@ -12,6 +12,9 @@ A simple, responsive to-do list application created using **HTML**, **CSS**, and
 
 
 
+💻 Live Demo: [](https://sulabhsaluja.github.io/To-Do-List/)
+
+
 Technologies Used
 - **HTML** for structure.
 - **CSS** for styling, including animations and transitions.
